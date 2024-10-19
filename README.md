@@ -1,2 +1,2 @@
 # Quantfin
-ALl the finance project regarding quantfin
+ALl the finance projects regarding quantfin
