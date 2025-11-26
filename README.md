@@ -22,7 +22,7 @@ This repository covers strategies and models built using cutting-edge machine le
 
 ## 📂 Structure
 
-* `PortfolioResearch/` – Contains strategy and model implementations.
+* `quantfinLib/` – Contains strategy and model implementations.
 * `README.md` – Project documentation.
 
 ---
