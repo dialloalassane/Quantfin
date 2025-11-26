@@ -129,10 +129,8 @@ Lower BIC = more efficient model.
 ## 📄 Project Structure
 
 ```
-├── data/
-│   └── btcusd.csv
 ├── HMM_bitcoin.ipynb
-├── requirements.txt
+├── HMM_bitcoin.html
 ├── README.md
 ```
 
